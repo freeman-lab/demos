@@ -9,7 +9,7 @@ const Index = () => {
   }, [colorMode])
 
   return <Box sx={{px: [4], py: [4]}}>
-    <Box sx={{fontSize: [5]}}>demos</Box>
+    <Box sx={{fontSize: [5]}}>demo test</Box>
     <Button onClick={toggle}>Toggle theme</Button>
   </Box>
 }
