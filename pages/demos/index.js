@@ -1,5 +1,5 @@
 import { useCallback } from 'react'
-import { useColorMode, Button, Box } from 'theme-ui'
+import { useColorMode, Button, Box, Link } from 'theme-ui'
 
 const Index = () => {
   const [colorMode, setColorMode] = useColorMode()
